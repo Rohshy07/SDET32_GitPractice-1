@@ -8,6 +8,7 @@ public class ClassA {
 	public void demoTest() {
 		
 		System.out.println("First Changed Push");
+		System.out.println("First Changed 10");
 		
 	}
 
